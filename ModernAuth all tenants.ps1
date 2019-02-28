@@ -1,6 +1,6 @@
 ﻿#
 # Manage Exchange Online Delegated Tenants.ps1
-# Special Thanks to Tas Grey of Axiom IT
+# Special Thanks to Tas Gray of Axiom IT
 #
 
 # Setup credentials
